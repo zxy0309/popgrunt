@@ -1,0 +1,21 @@
+{
+  "name": "zxy",
+  "version": "1.0.0",
+  "description": "提示框",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "提示框"
+  ],
+  "author": "zxy",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}
